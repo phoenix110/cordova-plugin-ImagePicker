@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-imagepicker",
-  "version": "1.2.0",
+  "name": "cordova-plugin-imagepicker-phoenix",
+  "version": "1.0.1",
   "description": "Cordova ImagePicker Plugin",
   "cordova": {
-    "id": "cordova-plugin-imagepicker",
+    "id": "cordova-plugin-imagepicker-phoenix",
     "platforms": [
       "ios",
       "android"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giantss/cordova-plugin-ImagePicker"
+    "url": "https://github.com/phoenix110/cordova-plugin-ImagePicker"
   },
   "keywords": [
     "cordova",
